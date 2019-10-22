@@ -3,7 +3,7 @@ package tp1;
 
 /**
  * Classe permettant la représentation d'un étudiant
- * @author Virginie Van den Schrieck
+ * @author joel yepgang
  */
 public class Etudiant {
 	//Variables d'instance
